@@ -6,10 +6,10 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.utils import executor
 
 # Устанавливаем ключ API OpenAI
-openai.api_key = "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"
+openai.api_key = "sk-Aq3nc9ZAq7rdiiR6Vh=====================UhRD"
 
 # Инициализируем бота и диспетчер
-bot = Bot(token="2102525803:AAEDCDwLpTKeUKgpqoqREP6-2pamhRGOj00")
+bot = Bot(token="2102525803:AAED======================Oj00")
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
 
